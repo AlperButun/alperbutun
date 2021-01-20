@@ -1,0 +1,16 @@
+<main id="main">
+  <h1 id="title"> Nikola Tesla
+      </h1>
+  <p>Man who invented the future</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      scr="https://assets.codepen.io/5609997/19826029002_892f6a972f_o.jpg"
+      alt="Nikola Tesla"
+      />
+  <figcaption id="img-caption">
+      Nikola Tesla with some of his world changing inventions
+    </figcaption>
+          
+  </figure>
+    </main>
